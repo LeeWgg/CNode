@@ -2,7 +2,7 @@
     <div class="aboutContent">
       <div class="first">
         <h3>关于项目</h3>
-        <p>该项目是基于Cnodejs的api，采用vue.js重写。</p>
+        <p>该项目是采用<a href="https://cnodejs.org/api">Cnode</a>社区提供的api，基于vue2.0重写。</p>
       </div>
       <div class="second">
         <h3>源码地址</h3>
@@ -17,8 +17,8 @@
         <p>vue2.0</p>
       </div>
       <div class="fifths">
-        <h3>特别感谢</h3>
-        <p>感谢<a href="https://github.com/shinygang" target="_blank"> https://github.com/shinygang </a>的vue-cnodejs项目给予我的启发，十分感谢！</p>
+        <h3>关于登录</h3>
+        <p>如何获取 accessToken？前往<a href="https://cnodejs.org/" target="_blank">Cnode</a>社区，用户登录后，在设置页面可以看到自己的 accessToken。</p>
       </div>
     </div>
 </template>
