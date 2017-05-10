@@ -20,17 +20,16 @@ $ git clone https://github.com/LeeWgg/CNode.git
 $ cd CNode
 $ npm install或 cnpm install
 ```
-## 截图
-![v1](src/assets/v1.PNG)
-![v2](src/assets/v2.PNG)
-![v3](src/assets/v3.PNG)
-![v4](src/assets/v4.PNG)
-
 ## 运行
 
 ``` bash
 $ npm run dev
 ```
+## 截图
+![v1](src/assets/v1.PNG)
+![v2](src/assets/v2.PNG)
+![v3](src/assets/v3.PNG)
+![v4](src/assets/v4.PNG)
 ## 目录结构
 
 ``` bash
