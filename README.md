@@ -1,6 +1,6 @@
 ## 前言
 
-####该项目是采用<a href="https://cnodejs.org/api">Cnode</a>社区提供的api，基于vue2.0重写，在此特别感谢！！！然后也要感谢<a href="https://github.com/shinygang" target="_blank"> https://github.com/shinygang </a>的vue-cnodejs项目给予我的启发。再一次说声谢谢！
+####该项目是采用<a href="https://cnodejs.org/api" target="_blank">Cnode</a>社区提供的api，基于vue2.0重写，在此特别感谢！！！然后也要感谢<a href="https://github.com/shinygang" target="_blank"> https://github.com/shinygang </a>的vue-cnodejs项目给予我的启发。再一次说声谢谢！
 
 ## 感悟
 

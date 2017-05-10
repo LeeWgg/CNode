@@ -2,7 +2,7 @@
     <div class="aboutContent">
       <div class="first">
         <h3>关于项目</h3>
-        <p>该项目是采用<a href="https://cnodejs.org/api">Cnode</a>社区提供的api，基于vue2.0重写。</p>
+        <p>该项目是采用<a href="https://cnodejs.org/api" target="_blank">Cnode</a>社区提供的api，基于vue2.0重写。</p>
       </div>
       <div class="second">
         <h3>源码地址</h3>
